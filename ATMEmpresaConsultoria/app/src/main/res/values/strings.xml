@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ATM Empresa Consultoria</string>
+    <string name="empresaDetalhes">Sobre a empresa :</string>
+    <string name="servicoDetalhes">Serviços</string>
+    <string name="textoConsultoria">Consultoria</string>
+    <string name="textoProcessos">Processos</string>
+    <string name="textoAcompanhamento">Acompanhamento e Projetos</string>
+    <string name="textoNossosClientes">Nossos Clientes</string>
+    <string name="textoContato">Contato</string>
+    <string name="textoEmail">Email :contato@atm.com</string>
+    <string name="textoTelefone">Fone: (48) 32333-1111</string>
+</resources>

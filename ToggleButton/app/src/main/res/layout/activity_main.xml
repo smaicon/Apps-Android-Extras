@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.codemaicon.togglebutton.MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="toogle button  "
+        android:textSize="30sp"
+        tools:layout_editor_absoluteX="123dp"
+        tools:layout_editor_absoluteY="38dp" />
+
+    <TextView
+        android:id="@+id/textoExibicaoId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="102dp"
+        tools:layout_editor_absoluteY="375dp" />
+
+    <ToggleButton
+        android:id="@+id/toggleButtonId"
+        android:layout_width="220dp"
+        android:layout_height="91dp"
+        android:text="ToggleButton"
+        android:textOff="desligado"
+        android:textOn="ligado"
+        tools:layout_editor_absoluteX="63dp"
+        tools:layout_editor_absoluteY="142dp" />
+</LinearLayout>

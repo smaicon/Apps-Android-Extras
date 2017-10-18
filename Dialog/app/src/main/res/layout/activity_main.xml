@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.codemaicon.dialog.MainActivity">
+
+    <Button
+        android:id="@+id/botaoId"
+        android:layout_width="247dp"
+        android:layout_height="86dp"
+        android:text="Abrir Dialog"
+        tools:layout_editor_absoluteX="83dp"
+        tools:layout_editor_absoluteY="173dp" />
+</android.support.constraint.ConstraintLayout>
